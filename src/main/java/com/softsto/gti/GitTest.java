@@ -17,5 +17,6 @@ public class GitTest
         System.out.println("hot_fox_test");
         System.out.println("push test");
         System.out.println("ssh");
+        System.out.println("pull");
     }
 }
